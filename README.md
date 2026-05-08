@@ -189,7 +189,6 @@ Arduino-Obstacle-Avoidance-Car/
 後續重新設計並訂製壓克力車架，
 將車體整體抬高，
 提升離地高度以增加沙地通行能力。
-![實際沙灘行走測試](<image/SAND TEST1-1.jpg>)
 
 ---
 
