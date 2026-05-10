@@ -77,8 +77,10 @@ Arduino-Obstacle-Avoidance-Car/
 │
 ├── images/
 │   ├── car1.jpg
-│   ├── car1 SAND TEST.jpg
-│   ├── car2 SAND TEST.jpg
+│   ├── car1_sandtest.jpg
+│   ├── car2_sandtest.jpg
+|   ├── signal_wiring.png
+|   ├── power_wiring.png
 │   └── SF90.jpg
 ```
 
@@ -97,12 +99,12 @@ Arduino-Obstacle-Avoidance-Car/
 # 📸 成果展示
 
 ## 自走車本體
-![CAR](<image/car2 SAND TEST.jpg>)
+![CAR](image/car2_sandtest.jpg)
 ---
 
 ## 電路配置
-![signal wire](<image/signal wiring.png>)
-![power wire](<image/power wiring.png>)
+![signal](image/signal_wiring.png)
+![power](image/power_wiring.png)
 ---
 
 ## 運作畫面
@@ -131,7 +133,6 @@ Arduino-Obstacle-Avoidance-Car/
 - 機械轉動影響即時性
 - 測距誤差影響決策
 ![超聲波搭配伺服馬達](image/SF90.jpg)
-
 ## 🧪 第三階段：三超音波感測器（最終架構）
 
 改為固定式三感測器（左 / 中 / 右），即時回傳距離資訊。
@@ -140,7 +141,7 @@ Arduino-Obstacle-Avoidance-Car/
 - 即時取得方向資訊
 - 避免掃描延遲
 - 提升整體穩定性
-![超音波感測器*3](<image/SAND TEST2-1.jpg>)
+![超音波感測器*3](image/car2_sandtest.jpg)
 
 # 🔧 開發過程與遇到問題
 
