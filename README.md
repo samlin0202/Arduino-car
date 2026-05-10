@@ -81,6 +81,7 @@ Arduino-Obstacle-Avoidance-Car/
 │   ├── car2_sandtest.jpg
 |   ├── signal_wiring.png
 |   ├── power_wiring.png
+│   ├── result.jpg
 │   └── SF90.jpg
 ```
 
@@ -103,12 +104,14 @@ Arduino-Obstacle-Avoidance-Car/
 ---
 
 ## 電路配置
+### 訊號配線圖
 ![signal](image/signal_wiring.png)
+### 電源配線圖
 ![power](image/power_wiring.png)
 ---
 
 ## 運作畫面
-
+![result](image/result.jpg)
 ---
 # 🔄 系統演進與測試歷程
 
