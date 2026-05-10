@@ -2,7 +2,7 @@
 ---
 # 📌 專案簡介
 
-本專案使用 Arduino UNO 搭配超音波感測器與馬達模組，實作一台具備自動避障功能的自走車。
+本專案使用 Arduino UNO 搭配超音波感測器與馬達模組，實作一台自動避障功能自走車。
 
 系統透過三顆 HC-SR04 超音波感測器
 （左 / 中 / 右）
@@ -17,8 +17,7 @@
 ✅ 自動避障功能  
 ✅ 左右方向判斷  
 ✅ 前進 / 後退 / 轉向控制  
-✅ Arduino 馬達控制  
-✅ Serial Monitor 即時除錯  
+✅ Arduino 馬達控制   
 
 ---
 
@@ -77,9 +76,10 @@ Arduino-Obstacle-Avoidance-Car/
 ├── README.md
 │
 ├── images/
-│   ├── car.jpg
-│   ├── wiring.jpg
-│   └── demo.jpg
+│   ├── car1.jpg
+│   ├── car1 SAND TEST.jpg
+│   ├── car2 SAND TEST.jpg
+│   └── SF90.jpg
 ```
 
 ---
@@ -97,20 +97,15 @@ Arduino-Obstacle-Avoidance-Car/
 # 📸 成果展示
 
 ## 自走車本體
-
-（放照片）
-
+![CAR](<image/car2 SAND TEST.jpg>)
 ---
 
 ## 電路配置
-
-（放照片）
-
+![signal wire](<image/signal wiring.png>)
+![power wire](<image/power wiring.png>)
 ---
 
 ## 運作畫面
-
-（放照片或影片截圖）
 
 ---
 # 🔄 系統演進與測試歷程
